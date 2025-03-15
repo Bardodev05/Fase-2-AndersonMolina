@@ -45,9 +45,8 @@ Este proyecto es una aplicación de escritorio en C# utilizando Windows Forms pa
 5. Completar los datos del formulario y calcular el costo total.
 
 ## 📜 Licencia
-Este proyecto está bajo la licencia **MIT**. Puedes usarlo y modificarlo libremente.
+Este proyecto está bajo la licencia **MIT**.
 
 ---
 
-📩 *Para cualquier duda o mejora, siéntete libre de contribuir o contactarme.* 🚀
 
